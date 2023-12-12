@@ -49,6 +49,7 @@ print(game)
 ## Files in this Repository
 - `kakuro_standard.py`: This file contains the Kakuro solver using the standard backtracking approach.
 - `kakuro_optimized.py`: This file contains the Kakuro solver enhanced with MCV and LCV heuristics.
+- `example_run.py`: This file provides an example of how to use the Kakuro solver.
 - `README.md`: Provides an overview and instructions for this repository.
 
 ## Contributing
