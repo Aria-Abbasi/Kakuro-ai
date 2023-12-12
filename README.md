@@ -13,7 +13,7 @@ The purpose of this repository is to demonstrate the effectiveness of these heur
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/Aria-Abbasi/Kakuro-ai
+git clone https://github.com/Aria-Abbasi/Kakuro-ai.git
 ```
 
 ## Usage
